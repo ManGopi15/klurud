@@ -1,0 +1,9 @@
+{
+	"ip":"gopiaja.aternos.me",
+	"port": "43308",
+	"name": "GPCraft",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/gamemode creative ",
+	"login-cmd":"/gamemode creative "
+}
